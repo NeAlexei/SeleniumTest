@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <ANNOTATIONS>
+          <root url="jar://C:/Selenium/selenium-java-3.141.59.zip!/" />
+        </ANNOTATIONS>
+        <CLASSES>
+          <root url="jar://C:/Selenium/selenium-java-3.141.59.zip!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Selenium/selenium-java-3.141.59.zip!/" />
+        </JAVADOC>
+        <NATIVE>
+          <root url="jar://C:/Selenium/selenium-java-3.141.59.zip!/" />
+        </NATIVE>
+        <SOURCES>
+          <root url="jar://C:/Selenium/selenium-java-3.141.59.zip!/" />
+        </SOURCES>
+        <jarDirectory url="jar://C:/Selenium/selenium-java-3.141.59.zip!/" recursive="false" />
+        <jarDirectory url="jar://C:/Selenium/selenium-java-3.141.59.zip!/" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Selenium/selenium-server-standalone-2.53.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
